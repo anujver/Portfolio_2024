@@ -32,10 +32,10 @@ const Projects = () => {
                   backgroundImage: `url(${netflix})`,
                 }}
               ></div>
-              <h1 className="text-2xl ml-28 mt-4 text-white hover:text-red-500 hover:underline">
+              <h1 className="text-2xl sm:ml-28 mt-4 text-white hover:text-red-500 hover:underline">
                 Netflix clone
               </h1>
-              <h1 className=" ml-[140px] mt-1 text-white hover:text-red-500 hover:underline">
+              <h1 className=" sm:ml-[140px] mt-1 text-white hover:text-red-500 hover:underline">
                 <a href="https://youtube-clone-zolk.vercel.app/">Check out</a>
               </h1>
               <h1 className=" mt-3 text-center text-white hover:text-red-500 hover:underline">
@@ -51,10 +51,10 @@ const Projects = () => {
                   backgroundImage: `url(${youtube})`,
                 }}
               ></div>
-              <h1 className="text-2xl ml-28 mt-4 text-white hover:text-red-500 hover:underline">
+              <h1 className="text-2xl sm:ml-28 mt-4 text-white hover:text-red-500 hover:underline">
                 Youtube clone
               </h1>
-              <h1 className=" ml-[140px] mt-1 text-white hover:text-red-500 hover:underline">
+              <h1 className=" sm:ml-[140px] mt-1 text-white hover:text-red-500 hover:underline">
                 <a href="https://youtube-clone-eta-swart.vercel.app/">
                   {" "}
                   Check out
